@@ -2,7 +2,7 @@
 
 Solutions for the [course](https://www.coursera.org/learn/progfun1) named above (warning: they may not be perfect). Feel free to submit a Pull Request (PR) if you can provide a better solution.
 
-## Assigments
+## Assignments
 
 - Week 01.01: Example Assignment *
 - Week 01.02: Recursion
